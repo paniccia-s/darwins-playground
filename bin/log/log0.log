@@ -1,0 +1,24 @@
+08/01/2019 14:57:42:617 - Logger initialized. Let's go!
+08/01/2019 14:57:42:632 - GameController instance retrieved.
+08/01/2019 14:57:42:636 - Intro state pushed, but NOT loaded!
+08/01/2019 14:57:43:331 - Retrieving GUIHandler instance.
+08/01/2019 14:57:43:334 - repainting the PlayPanel.
+08/01/2019 14:57:43:334 - Intro state loaded.
+08/01/2019 14:57:43:347 - Initializing GUI components...
+08/01/2019 14:57:43:584 - Parsing input arguments...
+08/01/2019 14:57:43:584 - Argument parsing complete: all requests handled.
+08/01/2019 14:57:44:467 - Frame packed and visible.
+08/01/2019 14:57:44:467 - GUI initialization complete.
+08/01/2019 14:57:44:467 - Text set: 
+Welcome to Darwin's Playground!
+Press a button below to start your 
+game!
+
+If you have a saved game, press 'Load'.
+Otherwise, press 'New' to start.
+08/01/2019 14:57:48:319 - Button pressed: Load
+08/01/2019 14:57:48:319 - State transition: Intro to Load
+08/01/2019 14:57:48:321 - Text set: 
+Enter below your player name.
+08/01/2019 14:57:49:881 - Button pressed: New
+08/01/2019 14:57:50:740 - Button pressed: Exit

@@ -1,0 +1,54 @@
+08/01/2019 14:57:54:784 - Logger initialized. Let's go!
+08/01/2019 14:57:54:787 - GameController instance retrieved.
+08/01/2019 14:57:54:792 - Intro state pushed, but NOT loaded!
+08/01/2019 14:57:55:093 - Retrieving GUIHandler instance.
+08/01/2019 14:57:55:096 - repainting the PlayPanel.
+08/01/2019 14:57:55:096 - Intro state loaded.
+08/01/2019 14:57:55:100 - Initializing GUI components...
+08/01/2019 14:57:55:343 - Frame packed and visible.
+08/01/2019 14:57:55:344 - GUI initialization complete.
+08/01/2019 14:57:55:344 - Text set: 
+Welcome to Darwin's Playground!
+Press a button below to start your 
+game!
+
+If you have a saved game, press 'Load'.
+Otherwise, press 'New' to start.
+08/01/2019 14:57:55:347 - Parsing input arguments...
+08/01/2019 14:57:55:349 - Argument parsing complete: all requests handled.
+08/01/2019 14:57:56:684 - Button pressed: New
+08/01/2019 14:57:56:684 - State transition: Intro to New
+08/01/2019 14:57:56:688 - Text set: 
+Let's start a new game. What is your name?
+08/01/2019 14:57:58:612 - Creating new player: eee
+08/01/2019 14:57:58:614 - Attempting to read in board data: res/scenario/tutorial.sno
+08/01/2019 14:57:58:617 - Reading succeeded!
+08/01/2019 14:57:58:618 - Text set: 
+Hello, eee!
+
+You will start with the tutorial.
+For this level, you start with two Organisms.
+What would you like to name the first?
+08/01/2019 14:57:59:869 - Text set: 
+And the second?
+08/01/2019 14:58:00:318 - repainting the PlayPanel.
+08/01/2019 14:58:00:319 - Attempting to write player data: res/playerdata/eee.plr
+08/01/2019 14:58:00:474 - Write succeeded!
+08/01/2019 14:58:00:475 - Text set: 
+View your Organisms: 
+When you're ready, press the 
+Start button to begin gameplay!
+
+08/01/2019 14:58:00:526 - Organism one: male Cyanobacterium
+        Contains: (Size: very small), (Glide Speed: fast), (Cell Wall Thickness: thick), (Color: red).
+
+08/01/2019 14:58:00:527 - Organism two: female Cyanobacterium
+        Contains: (Size: medium), (Glide Speed: very slow), (Cell Wall Thickness: thin), (Color: red).
+
+08/01/2019 14:58:03:715 - Button pressed: Start
+08/01/2019 14:58:03:717 - repainting the PlayPanel.
+08/01/2019 14:58:03:719 - Text set: 
+It is turn 1 of 50.
+08/01/2019 14:58:03:719 - Text added: 
+Click on a Tile to view the Organisms on it, if there are any.
+08/01/2019 14:58:03:720 - Changing button layout.
