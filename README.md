@@ -5,13 +5,10 @@ Below is a relatively exhaustive description of the gameplay, which I've copy-pa
 
 Tl;dr: breed, mutate, and simulate organisms to permit their survival. 
 
-#### Project begun in October of 2017.
-
-### A note to anybody trying to run the program (for whatever reason): 
-I'm currently operating straight out of Eclipse; the project's main method is in the Father class.
+#### Project begun in October of 2017. 
 
 
-# Darwin's Playground: Mutate your way to survival! 
+# Darwin's Playground: Mutate your way to victory! 
 
 Premise: An evolutionary simulation in which organisms are mutated, bred, and placed into a world where their survival is based off of how well they were genetically engineered. 
 
