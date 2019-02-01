@@ -18,8 +18,7 @@ Win Condition: Once the turn limit has been reached, all organisms currently liv
 
 # Sample Gameplay Screenshots
 
-The game starts with your choosing to load a saved game or to create a new one: 
-![alt text]("https://github.com/paniccia-s/darwins-playground/blob/master/Main%20Page.PNG")
+The game starts with your choosing to load a saved game or to create a new one:
 
 
 Game Concepts: 
