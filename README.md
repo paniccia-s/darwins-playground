@@ -19,9 +19,36 @@ Win Condition: Once the turn limit has been reached, all organisms currently liv
 # Sample Gameplay Screenshots
 
 The game starts with your choosing to load a saved game or to create a new one:
+![main_page](Main%20Page.PNG)
+ > I'm not a very good artist... excuse the poorly-designed GUI :)
 
 
-Game Concepts: 
+When you begin the game, you see the game board on the right and you can then take your turn: 
+![turn_page](Turn%20Page.PNG)
+
+
+> The full rules are below these pictures. 
+You can observe your organisms to see their stats (if you've discovered them...)
+![observe](Observe%20Nothing%20Discovered.PNG)
+
+> You haven't discovered any traits yet... Let's mutate an organism so we can find a trait. 
+Click on Mutate, then select organism one, and now you can see the current allele of the mutated trait!
+![observe](Mutate.PNG)
+
+> Red... cool. 
+Now, place this organism into the world. Click on Place, then click on the game board to place it onto a tile
+![place](Place.PNG)
+
+> There it is, on the tile with the '1' on it!
+Then, when the turn ends, the organism might move to an adjacent tile, based on its species' stats and the tile terrain it's on...
+![moved](Moved.PNG)
+> It moved!
+
+#
+Gameplay continues like this. 
+
+
+# Game Concepts: 
 1.	The Scenario: The current level. Every scenario contains different organisms, a different turn limit, different genes [and a different world?]. 
 2.	The Organism: Every scenario provides one or more different types of organisms to the player. Each is given a [standard or random?] genome. To win the scenario, the player must engineer their organisms to survive in the simulation period.
 3.	The World: The world is a 2-D representation of a planet far, far away. The world contains a [standard or random?] combination of biomes. The world is displayed as a grid of different colors, where each color represents a unique biome. 
