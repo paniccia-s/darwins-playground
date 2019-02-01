@@ -16,6 +16,12 @@ Gameplay: Gameplay is turn-based, where the player may execute one of several ac
 
 Win Condition: Once the turn limit has been reached, all organisms currently living in the world are simulated over some number of additional game ticks. During this simulation, organisms live or die as they would in any other turn. If at least one organism survives the simulation period, the player wins. The player may not act in any capacity during these turns. 
 
+# Sample Gameplay Screenshots
+
+The game starts with your choosing to load a saved game or to create a new one: 
+![alt text]("https://github.com/paniccia-s/darwins-playground/blob/master/Main%20Page.PNG")
+
+
 Game Concepts: 
 1.	The Scenario: The current level. Every scenario contains different organisms, a different turn limit, different genes [and a different world?]. 
 2.	The Organism: Every scenario provides one or more different types of organisms to the player. Each is given a [standard or random?] genome. To win the scenario, the player must engineer their organisms to survive in the simulation period.
